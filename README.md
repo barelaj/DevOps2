@@ -1,5 +1,5 @@
 # DevOps Project
-# DevopProject
+
 - This project will get you familar with using vagrant to set up Virtual Machines. 
 - We will then host a website on centos 8. Please note: Centos 8 has reached EOL. This is for practice purposes only. 
 
